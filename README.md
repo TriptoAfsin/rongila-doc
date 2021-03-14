@@ -1,33 +1,15 @@
-# Website
+# Repository For Rongila CSS Documentation
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+# Rongila.css 
 
-## Installation
+A class based css librarary built with animations and responsiveness in mind😍
 
-```console
-yarn install
-```
+<p align="center"><img src="./rongila2.png" width="256px" /></p>
 
-## Local Development
-
-```console
-yarn start
-```
-
-This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```console
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## Features - 
+<ol>
+<li> Written in vanilla css✔</li>
+<li> Simple class based usage😄</li>
+<li> lightweight(<30KB)🐱‍🏍</li>
+<li> Easy to use animations & hover effects🤯</li>
+</ol>
