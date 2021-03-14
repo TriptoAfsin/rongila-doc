@@ -4,7 +4,7 @@
 
 A class based css librarary built with animations and responsiveness in mind😍
 
-<p align="center"><img src="./rongila2.png" width="256px" /></p>
+<p align="center"><img src="https://i.imgur.com/sPKGtaT.png" width="256px" /></p>
 
 ## Features - 
 <ol>
